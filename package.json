@@ -4,10 +4,12 @@
   "license": "MIT",
   "description": "A web-like router file generator",
   "dependencies": {
+    "async": "^1.5.2",
+    "co": "^4.6.0",
+    "co-fs-plus": "^0.3.1",
     "consolidate": "^0.14.0",
     "gray-matter": "^2.0.2",
     "handlebars": "^4.0.5",
-    "mkdirp": "^0.5.1",
     "node-sass": "^3.4.2",
     "uglify-js": "^2.6.2"
   }
