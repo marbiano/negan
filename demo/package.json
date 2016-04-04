@@ -5,6 +5,6 @@
   "main": "index.js",
   "author": "Martin Bavio <mbavio@gmail.com> (http://martinbavio.com)",
   "dependencies": {
-    "negan": "git://github.com/mbavio/negan.git#4f743ca"
+    "negan": "^0.1.0"
   }
 }
