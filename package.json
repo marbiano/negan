@@ -1,6 +1,6 @@
 {
-  "name": "routeone",
-  "version": "1.0.0",
+  "name": "negan",
+  "version": "0.1.0",
   "license": "MIT",
   "description": "A web-like router file generator",
   "dependencies": {
