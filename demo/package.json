@@ -4,4 +4,7 @@
   "description": "A working example of Negan",
   "main": "index.js",
   "author": "Martin Bavio <mbavio@gmail.com> (http://martinbavio.com)",
+  "dependencies": {
+    "negan": "git://github.com/mbavio/negan.git#6fbf2d67547badac5905fce3a15949c742619071"
+  }
 }
