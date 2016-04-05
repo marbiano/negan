@@ -1,8 +1,11 @@
 {
   "name": "negan",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "license": "MIT",
   "description": "A web-like router file generator",
+  "scripts": {
+    "build": "node index.js"
+    },
   "dependencies": {
     "co": "^4.6.0",
     "co-fs-extra": "^1.2.1",
